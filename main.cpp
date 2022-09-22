@@ -1,5 +1,5 @@
 /* programme avec erreurs */
-#include <iostream>;
+#include <iostream>
 
 using namespace std;
 
